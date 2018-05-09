@@ -1,0 +1,397 @@
+{
+    "avm": {
+        "name": "contratos",
+        "hash": "28fc87e4e771c17dba8dc04c3a7b0397"
+    },
+    "compiler": {
+        "name": "neo-boa",
+        "version": "0.4.2"
+    },
+    "files": [
+        {
+            "id": 1,
+            "url": "/home/jwcm/Desarrollo/blockchain/neo/hackaton/contratos.py"
+        },
+        {
+            "id": 2,
+            "url": "/usr/lib/python3.6/site-packages/boa/builtins.py"
+        }
+    ],
+    "map": [
+        {
+            "start": 14,
+            "end": 22,
+            "file": 1,
+            "method": "Main",
+            "line": 2,
+            "file_line_no": 54
+        },
+        {
+            "start": 23,
+            "end": 30,
+            "file": 1,
+            "method": "Main",
+            "line": 4,
+            "file_line_no": 56
+        },
+        {
+            "start": 31,
+            "end": 77,
+            "file": 1,
+            "method": "Main",
+            "line": 5,
+            "file_line_no": 57
+        },
+        {
+            "start": 78,
+            "end": 82,
+            "file": 1,
+            "method": "Main",
+            "line": 6,
+            "file_line_no": 58
+        },
+        {
+            "start": 83,
+            "end": 98,
+            "file": 1,
+            "method": "Main",
+            "line": 8,
+            "file_line_no": 60
+        },
+        {
+            "start": 99,
+            "end": 108,
+            "file": 1,
+            "method": "Main",
+            "line": 9,
+            "file_line_no": 61
+        },
+        {
+            "start": 109,
+            "end": 118,
+            "file": 1,
+            "method": "Main",
+            "line": 10,
+            "file_line_no": 62
+        },
+        {
+            "start": 119,
+            "end": 135,
+            "file": 1,
+            "method": "Main",
+            "line": 12,
+            "file_line_no": 64
+        },
+        {
+            "start": 136,
+            "end": 143,
+            "file": 1,
+            "method": "Main",
+            "line": 13,
+            "file_line_no": 65
+        },
+        {
+            "start": 144,
+            "end": 225,
+            "file": 1,
+            "method": "Main",
+            "line": 15,
+            "file_line_no": 67
+        },
+        {
+            "start": 226,
+            "end": 230,
+            "file": 1,
+            "method": "Main",
+            "line": 16,
+            "file_line_no": 68
+        },
+        {
+            "start": 231,
+            "end": 240,
+            "file": 1,
+            "method": "Main",
+            "line": 17,
+            "file_line_no": 69
+        },
+        {
+            "start": 241,
+            "end": 250,
+            "file": 1,
+            "method": "Main",
+            "line": 18,
+            "file_line_no": 70
+        },
+        {
+            "start": 251,
+            "end": 264,
+            "file": 1,
+            "method": "Main",
+            "line": 19,
+            "file_line_no": 71
+        },
+        {
+            "start": 265,
+            "end": 303,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 22,
+            "file_line_no": 113
+        },
+        {
+            "start": 304,
+            "end": 336,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 2,
+            "file_line_no": 93
+        },
+        {
+            "start": 337,
+            "end": 360,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 4,
+            "file_line_no": 95
+        },
+        {
+            "start": 361,
+            "end": 393,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 6,
+            "file_line_no": 97
+        },
+        {
+            "start": 394,
+            "end": 467,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 7,
+            "file_line_no": 98
+        },
+        {
+            "start": 468,
+            "end": 472,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 8,
+            "file_line_no": 99
+        },
+        {
+            "start": 473,
+            "end": 502,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 10,
+            "file_line_no": 101
+        },
+        {
+            "start": 503,
+            "end": 532,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 11,
+            "file_line_no": 102
+        },
+        {
+            "start": 533,
+            "end": 538,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 12,
+            "file_line_no": 103
+        },
+        {
+            "start": 539,
+            "end": 562,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 13,
+            "file_line_no": 104
+        },
+        {
+            "start": 563,
+            "end": 586,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 14,
+            "file_line_no": 105
+        },
+        {
+            "start": 587,
+            "end": 591,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 15,
+            "file_line_no": 106
+        },
+        {
+            "start": 592,
+            "end": 620,
+            "file": 1,
+            "method": "RegistrarArrendatario",
+            "line": 17,
+            "file_line_no": 108
+        },
+        {
+            "start": 621,
+            "end": 632,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 18,
+            "file_line_no": 94
+        },
+        {
+            "start": 633,
+            "end": 665,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 2,
+            "file_line_no": 78
+        },
+        {
+            "start": 666,
+            "end": 689,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 4,
+            "file_line_no": 80
+        },
+        {
+            "start": 690,
+            "end": 719,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 6,
+            "file_line_no": 82
+        },
+        {
+            "start": 720,
+            "end": 749,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 7,
+            "file_line_no": 83
+        },
+        {
+            "start": 750,
+            "end": 755,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 8,
+            "file_line_no": 84
+        },
+        {
+            "start": 756,
+            "end": 819,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 9,
+            "file_line_no": 85
+        },
+        {
+            "start": 820,
+            "end": 824,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 10,
+            "file_line_no": 86
+        },
+        {
+            "start": 825,
+            "end": 848,
+            "file": 1,
+            "method": "ConsultaArrendatario",
+            "line": 12,
+            "file_line_no": 88
+        },
+        {
+            "start": 849,
+            "end": 867,
+            "file": 2,
+            "method": "range",
+            "line": 13,
+            "file_line_no": 86
+        },
+        {
+            "start": 868,
+            "end": 879,
+            "file": 2,
+            "method": "range",
+            "line": 9,
+            "file_line_no": 82
+        },
+        {
+            "start": 880,
+            "end": 888,
+            "file": 2,
+            "method": "range",
+            "line": 11,
+            "file_line_no": 84
+        },
+        {
+            "start": 889,
+            "end": 894,
+            "file": 2,
+            "method": "range",
+            "line": 13,
+            "file_line_no": 86
+        },
+        {
+            "start": 895,
+            "end": 902,
+            "file": 2,
+            "method": "range",
+            "line": 15,
+            "file_line_no": 88
+        },
+        {
+            "start": 903,
+            "end": 914,
+            "file": 2,
+            "method": "range",
+            "line": 17,
+            "file_line_no": 90
+        },
+        {
+            "start": 915,
+            "end": 926,
+            "file": 2,
+            "method": "range",
+            "line": 18,
+            "file_line_no": 91
+        },
+        {
+            "start": 927,
+            "end": 937,
+            "file": 2,
+            "method": "range",
+            "line": 19,
+            "file_line_no": 92
+        },
+        {
+            "start": 938,
+            "end": 947,
+            "file": 2,
+            "method": "range",
+            "line": 20,
+            "file_line_no": 93
+        },
+        {
+            "start": 948,
+            "end": 965,
+            "file": 2,
+            "method": "range",
+            "line": 21,
+            "file_line_no": 94
+        },
+        {
+            "start": 966,
+            "end": 971,
+            "file": 2,
+            "line": 23
+        }
+    ],
+    "breakpoints": []
+}
